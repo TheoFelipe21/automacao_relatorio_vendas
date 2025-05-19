@@ -1,6 +1,6 @@
 # Projeto de Automação de Relatórios de Vendas
 
-Este é um projeto Python, esenvolvido para automatizar o processo de geração e envio de relatórios de vendas para uma rede de lojas. A ideia surgiu da necessidade de otimizar o acompanhamento do desempenho das lojas, fornecendo informações relevantes de forma rápida e eficiente para os gerentes e a diretoria.
+Este é um projeto Python, esenvolvido para automatizar o processo de geração e envio de relatórios de vendas para uma rede de lojas. A ideia surgiu da necessidade de otimizar o acompanhamento do desempenho das lojas, fornecendo informações necessárias para os gerentes e a diretoria.
 
 ## Visão Geral
 
